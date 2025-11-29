@@ -1,10 +1,6 @@
 # Hi, I'm Imran | Software Developer
 
 <p align="center">
-  <img src="https://i.ibb.co/gMnN4hjB/IMG-20230626-221411-removebg-preview.png" alt="Imran" width="200" height="200" style="border-radius: 50%;"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/imran8380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -46,6 +42,41 @@ I am a passionate software developer with expertise in multiple programming lang
 - Problem Solving
 - Debugging and Testing
 
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&animate=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=radical&hide_border=true&animate=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imran8380&theme=radical&hide_border=true&background=0D1117&animate=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=imran8380&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&animate=true" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=imran8380&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&animate=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+## Activity Metrics
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/imran8380?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka&animate=true)
+
+</div>
+
 ## Projects
 
 ### [Project 1 - Coming Soon]
@@ -63,23 +94,6 @@ Brief description of your project. What it does, technologies used, and what pro
 - Currently enhancing my software development skills
 - Continuous learning through online platforms and practical projects
 - Focused on mastering core programming concepts and best practices
-
-## GitHub Overview
-
-<p align="center">
-  <a href="https://github.com/imran8380">
-    <img src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  </a>
-  <a href="https://github.com/imran8380">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/imran8380">
-    <img src="https://streak-stats.demolab.com/?user=imran8380&theme=radical" alt="GitHub Streak" height="160"/>
-  </a>
-</p>
 
 ## Contact Me
 
@@ -103,5 +117,11 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imran8380&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imran8380&color=blue&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+<div align="center">
+
+![Snake animation](https://github.com/imran8380/imran8380/blob/output/github-contribution-grid-snake.svg)
+
+</div>

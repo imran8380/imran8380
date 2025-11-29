@@ -39,12 +39,12 @@ I am a dedicated software developer with strong programming fundamentals and a p
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=radical" alt="Imran GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&count_private=true&theme=radical" alt="Imran GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran8380&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=imran8380&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 ## Connect With Me

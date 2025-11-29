@@ -1,94 +1,54 @@
-# Abdullah Al Imran  
-### Computer Science and Engineering Student | Programmer | Tech Enthusiast
-
-## About Me
-I am a dedicated Computer Science and Engineering student at Bangladesh University of Business and Technology (BUBT), with a strong interest in software development and problem-solving. I primarily work with **C, C++, and Java**, and I enjoy building practical projects that strengthen my programming fundamentals.  
-I am also comfortable working with development tools such as **Git, VS Code, Linux, CLion, and CodeBlocks**.  
-My long-term goal is to become a skilled Software Engineer capable of creating efficient, scalable, and user-focused solutions.
-
-**Email:** imran.stu.8380@gmail.com  
-**LinkedIn:** [linkedin.com/in/imran8380](https://www.linkedin.com/in/imran8380)
-
----
-
-## Skills and Tools
-
-### Programming Languages
-- C  
-- C++  
-- Java  
-
-### Tools and Platforms
-- Git  
-- VS Code  
-- Linux  
-- CodeBlocks  
-- CLion  
-
----
-
-## Featured Projects
-
-### Student Management System (C++)
-A console-based application developed using Object-Oriented Programming and file handling techniques.  
-Key features include student addition, search, deletion, and structured output formatting.  
-*Repository link will be added soon.*
-
-### Number System Converter (C)
-A simple yet efficient converter supporting binary, decimal, and hexadecimal formats.  
-Includes modular functions and a clean command-line output design.  
-*Repository link will be added soon.*
-
-### Java Calculator (Java Swing)
-A basic GUI-based calculator offering core arithmetic operations such as addition, subtraction, multiplication, and division.  
-Features input validation and error handling.  
-*Repository link will be added soon.*
-
----
-
-## GitHub Statistics
+# Abdullah Al Imran
+Computer Science and Engineering Student | Programmer | Tech Enthusiast
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&title_color=000000&text_color=000000&border_color=000000"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=tokyonight"
-      width="48%"
-    />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&title_color=000000&text_color=000000&border_color=000000"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=tokyonight"
-      width="48%"
-    />
-  </picture>
+  <img src="https://photos.app.goo.gl/zxSERgoMZTBm6QqPA" 
+       alt="Profile Picture" width="180" style="border-radius:50%; border:3px solid #000;">
 </p>
 
 ---
 
-## Contribution Activity
+About Me  
+I am a dedicated Computer Science and Engineering student at Bangladesh University of Business and Technology (BUBT) with a strong interest in software development and problem-solving. I primarily work with C, C++, and Java.  
+I enjoy building practical projects to strengthen my programming fundamentals and enhance my problem-solving skills.  
+I am familiar with tools such as Git, VS Code, Linux, CLion, and CodeBlocks.  
+My long-term goal is to become a skilled software engineer capable of creating efficient, scalable, and user-focused solutions.
+
+Email: imran.stu.8380@gmail.com  
+LinkedIn: [linkedin.com/in/imran8380](https://www.linkedin.com/in/imran8380)
+
+---
+
+Skills and Tools  
+Programming Languages: C, C++, Java  
+Tools and Platforms: Git, VS Code, Linux, CLion, CodeBlocks  
+
+---
+
+Featured Projects  
+Student Management System (C++)  
+A console-based application developed using Object-Oriented Programming and file handling techniques. Key features include student addition, search, deletion, and structured output formatting.  
+Repository link coming soon.
+
+Number System Converter (C)  
+A simple yet efficient converter supporting binary, decimal, and hexadecimal formats. Modular functions and clean CLI output.  
+Repository link coming soon.
+
+Java Calculator (Java Swing)  
+A GUI-based calculator offering addition, subtraction, multiplication, and division. Includes input validation and error handling.  
+Repository link coming soon.
+
+---
+
+GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/imran8380/count.svg" />
-</p>
-
----
-
-## Connect With Me
+Connect With Me
 <p align="center">
   <a href="https://github.com/imran8380">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>

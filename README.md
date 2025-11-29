@@ -1,7 +1,7 @@
 # Hi there, I'm Imran
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/zxSERgoMZTBm6QqPA" alt="Imran" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://i.ibb.co/gMnN4hjB/IMG-20230626-221411-removebg-preview.png" alt="Imran" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">

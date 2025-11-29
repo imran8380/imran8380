@@ -35,19 +35,45 @@ I am a passionate software developer with expertise in multiple programming lang
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-FF6B6B?style=for-the-badge&logo=c&logoColor=white)
 
-## GitHub Statistics
+### Core Competencies
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Version Control with Git
+- Problem Solving
+- Debugging and Testing
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&animate=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=radical&hide_border=true&animate=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imran8380&theme=radical&hide_border=true&background=0D1117&animate=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=imran8380&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&animate=true" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imran8380">
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=imran8380&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&animate=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+## Activity Metrics
 
 <div align="center">
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=imran8380&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran8380&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
-
-### Contribution Streak
-<img src="https://streak-stats.demolab.com?user=imran8380&theme=dark" alt="GitHub Streak" width="45%"/>
-
-### Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=imran8380&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+![Metrics](https://metrics.lecoq.io/imran8380?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka&animate=true)
 
 </div>
 
@@ -91,5 +117,11 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imran8380&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imran8380&color=blue&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+<div align="center">
+
+![Snake animation](https://github.com/imran8380/imran8380/blob/output/github-contribution-grid-snake.svg)
+
+</div>

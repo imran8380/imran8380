@@ -1,5 +1,3 @@
-<!-- ======================= Banner ======================= -->
-
 <p align="center">
   <img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%" style="border-radius: 12px;" />
 </p>

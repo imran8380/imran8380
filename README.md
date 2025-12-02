@@ -4,41 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Abdullah Al Imran</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f4;
-    }
-    header {
-      background: #222;
-      color: #fff;
-      padding: 30px;
-      text-align: center;
-    }
-    section {
-      background: white;
-      margin: 20px auto;
-      padding: 20px;
-      width: 90%;
-      max-width: 800px;
-      border-radius: 8px;
-      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #333;
-      border-left: 5px solid #555;
-      padding-left: 10px;
-    }
-    ul {
-      line-height: 1.7;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-  </style>
 </head>
 <body>
   <header>
@@ -85,11 +50,11 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:imran.stu.8380@gmail.com">imran.stu.8380@gmail.com</a></p>
+    <p>Email: imran.stu.8380@gmail.com</p>
     <p>Phone: +8801756644097</p>
-    <p>GitHub: <a href="https://github.com/imran8380">github.com/imran8380</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/imran8380/">linkedin.com/in/imran8380</a></p>
-    <p>Facebook: <a href="https://facebook.com/shadow.boy.2004">facebook.com/shadow.boy.2004</a></p>
+    <p>GitHub: github.com/imran8380</p>
+    <p>LinkedIn: linkedin.com/in/imran8380</p>
+    <p>Facebook: facebook.com/shadow.boy.2004</p>
   </section>
 </body>
 </html>
